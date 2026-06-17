@@ -1,0 +1,22 @@
+age = 30
+grade = 14.5
+
+if grade >= 10:
+    print("Passed the exam")
+else:
+    print("Did not pass")
+
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+
+# Multiple conditions example
+temp = 38
+
+if temp > 38:
+    print("High fever, see a doctor")
+elif temp >= 36 and temp <= 38:
+    print("Normal temperature")
+else:
+    print("Low temperature")
