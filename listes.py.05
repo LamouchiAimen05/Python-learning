@@ -1,0 +1,8 @@
+cities = ["Tébessa", "Constantine", "Algiers", "Annaba"]
+
+print(cities[0])  # first city
+cities.append("Oran")  # add a new city
+print(cities)
+
+for city in cities:
+    print("City:", city)
