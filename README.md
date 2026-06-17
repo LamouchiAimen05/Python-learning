@@ -15,4 +15,7 @@ I'm currently learning Python from scratch, and this repository documents my pro
 | `06_dictionaries.py` | Dictionaries |
 
 ## 🎯 Goal
-Applying Python to automation and industrial systems, and later connecting it with projects in AI
+Applying Python to automation and industrial systems, and later connecting it with projects in AI and Cybersecurity
+
+## 🔗 Connect with me
+ LinkedIn link :https://www.linkedin.com/in/lamouchi-aimen-3a422230a
