@@ -1,0 +1,12 @@
+person = {
+    "name": "Aimen",
+    "age": 30,
+    "city": "Tébessa",
+    "field": "Automatique et Systèmes"
+}
+
+print(person["name"])
+print(person["city"])
+
+person["job"] = "Job seeking"  # add a new key
+print(person)
