@@ -1,0 +1,27 @@
+"""
+Exercise: Variables and Data Types
+-----------------------------------
+1. Create a variable 'name' with your name (string)
+2. Create a variable 'age' with your age (integer)
+3. Create a variable 'height' with your height in meters (float)
+4. Create a variable 'is_student' (boolean) - are you currently a student?
+5. Print all variables with a descriptive sentence for each
+6. Print the type() of each variable
+"""
+
+# --- Solution ---
+
+name = "Aimen"
+age = 30
+height = 1.75
+is_student = False
+
+print("My name is", name)
+print("My age is", age)
+print("My height is", height, "meters")
+print("Am I a student?", is_student)
+
+print(type(name))
+print(type(age))
+print(type(height))
+print(type(is_student))
